@@ -58,7 +58,7 @@
 
 ## 📫 Contact Me
 
-* Email: [Gmail](shamvel1223@gmail.com)
+* Email: [shamvel1223@gmail.com](shamvel1223@gmail.com)
 
 ---
 
