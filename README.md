@@ -1,71 +1,83 @@
-# 👋 Hi, I'm Sham Vel
+# IT Career Transition 2026–2027 🚀
 
-🎨 Graphic Designer | 📊 PPT Designer | 📁 Excel Specialist | 🚀 Aspiring Freelancer
+## About
 
----
+I am transitioning from an ICT/STEM facilitation background into the IT industry.
 
-## 🔭 I’m currently working on
+My goal is to build practical skills in:
 
-* YouTube Thumbnail Designs
-* Poster & Certificate Designs
-* PowerPoint Presentations (PPT)
-* Excel Sheets & Data Formatting
+- Networking
+- Linux
+- Windows Administration
+- PowerShell
+- Python
+- Git & GitHub
+- Microsoft Azure
+- Cloud Infrastructure
+- Automation
+- DevOps
+- Cybersecurity
 
----
+## Career Goal
 
-## 🌱 I’m currently learning
+🎯 Target: First IT role by March–July 2027
 
-* Web Development (HTML, CSS)
-* Git & GitHub
-* AI tools for productivity
+### Target Roles
 
----
-
-## 🛠 Skills & Tools
-
-* 🎨 Photoshop (Thumbnails, Posters)
-* 📊 PowerPoint (Professional Presentations)
-* 📁 Excel (Formatting, Data Entry, Basic Analysis)
-* 🖌 Canva
-* 💻 Basic HTML & CSS
-
----
-
-## 👯 I’m looking to collaborate on
-
-* Design projects
-* PPT & Excel work
-* Freelance opportunities
+- IT Support Engineer
+- Technical Support Engineer
+- System Support Engineer
+- NOC Engineer
+- Junior System Administrator
+- Cloud Support Engineer
+- Junior Cloud Engineer
 
 ---
 
-## 💬 Ask me about
+# Learning Roadmap
 
-* Thumbnail design
-* Poster creation
-* PPT design
-* Excel work
+## Phase 1 — IT Fundamentals
+- [ ] Networking
+- [ ] IPv4 / IPv6
+- [ ] Subnetting
+- [ ] DNS
+- [ ] DHCP
+- [ ] Routing
+- [ ] Switching
+- [ ] Troubleshooting
 
----
+## Phase 2 — Operating Systems
+- [ ] Linux
+- [ ] Windows
+- [ ] PowerShell
+- [ ] Bash
+- [ ] System Administration
 
-## 📂 My Work (Coming Soon)
+## Phase 3 — Programming & Automation
+- [ ] Python
+- [ ] APIs
+- [ ] Git
+- [ ] GitHub
+- [ ] PowerShell automation
+- [ ] Bash automation
 
-* 🎨 Design Portfolio
-* 📊 PPT Projects
-* 📁 Excel Projects
+## Phase 4 — Cloud
+- [ ] Azure Fundamentals
+- [ ] Virtual Machines
+- [ ] Networking
+- [ ] Storage
+- [ ] Identity
+- [ ] Monitoring
+- [ ] Security
 
----
+## Phase 5 — DevOps
+- [ ] Docker
+- [ ] CI/CD
+- [ ] Terraform
+- [ ] Kubernetes
 
-## 📫 Contact Me
-
-* Email: [shamvel1223@gmail.com](shamvel1223@gmail.com)
-
----
-
-## ⚡ Fun fact
-
-I enjoy turning simple ideas into clean and attractive designs 🚀
-
----
-
-⭐ Building skills → Building income → Building my future
+## Phase 6 — Security & AI
+- [ ] Cloud Security
+- [ ] DevSecOps
+- [ ] AI-assisted IT
+- [ ] AI automation
